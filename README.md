@@ -16,3 +16,5 @@ Waar ik tegenaan ben gelopen:
 deed t wel, maar de status functie daarna reageerde niet.
 Ik weet nog steeds niet waar daar fout gaat.
 
+Ik heb 2 deply keys toegevoegd, eentje voor m'n lokale computer 
+en 1 voor op de server.
