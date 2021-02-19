@@ -5,9 +5,9 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return 'Doe eens normaaaaaaaaal!'
+    return 'Doe eens normaal!'
 
 @app.route('/cow')
 def cow():
-    return 'Boodschaaaaaap!'
+    return 'Boodschaaap!'
 
